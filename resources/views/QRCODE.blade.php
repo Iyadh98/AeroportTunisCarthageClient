@@ -1,0 +1,1 @@
+{!! QrCode::generate($type.' '.$couleur.' '.$poids); !!}

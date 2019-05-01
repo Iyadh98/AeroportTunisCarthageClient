@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aeroporttuniscarthage",
+  "private_key_id": "e5578647e7282dfde1eceaa4e9dbe38eee3ffba3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFwf7ohFpZSEy/\nNmKdI9X4TrDgbSs3qbXHp1EN4V3+XpAkmo0fAsv/TNPOHyqfsbTcggRb1NMoRufv\nZMV2oFFQWCfbM0YqHyMboAsjou33+KtAbmnu8K+iOI9kumD974AUfTG1OZHbAtZJ\nD1zDrEn+0B9KVxvIH5/Z645vPNuT/IgD9DCmyo2aKdQ45YnBwzzipUm7z7G6IOIf\nKcyRJKoqOUXPLNZ19vflOphLRr37PMeX00fpG5inXPneQQ6e+8nlwopzN4q9KxkL\nqjXxF4ekMOX41i69SIVjB8Fa+O3cXecyLZ9Eidf+nuobz6oRyKefS6Q++C+tzU9l\nXbv0lgQHAgMBAAECggEABwWPXoQsjRUDHJr6v2ehVlK89wsJSM2u1ar8Nsj0xG5p\nIdOXBS3dPnBk6OG0ar0tldLMAtK4uKpj290xIbgpivfGWoMkj6RRY8639oj3eCGN\nOxlwi3piUhk+Bi6T+RBC9PdJB41Gv4cHQsrX2V7JtdF/+uzC4MU2sM8rXInFpih2\nUVEl+MQA7bTsh/F7VzBNyiXYbjnFnXFpHhVZ4gnGeOV7HxrmfWFUOKwUZcf31xdI\nTau0/oXYd1BCGpfzkwNmro/ySdEazjSw8iOYn37i2yIdeFeKHWBZ+ymnFGFa4Osj\nkmCnm4bOgPb7Op9yveNcUnxB7WW3jZ8SrJAsA5CgIQKBgQDrUTqdFVCIg52R1tLT\nfzb7J3l6n1ck6VCMzjGxSgHNqHKChz/vcZoglKrTzkpy+45Vn912vAbI4t66d83v\nVGRzB/xqMxxQ+SWrRp245i2EyGB1GzC7YQzcrkqOLdlj6TyZD07fHVC/l7LCPQ0x\ne1/5bUzexpG+qbdeGOjYCQ4DUQKBgQDXI6gpoqQwPrgErjNaw/ZPw1oru/eh6h0r\nrVQUvomq0TX734VQmTrkE3ioOvADX7WNehq1UUsMllFtLo6bY8ltwMV7eiZg5WkV\ncrMS+uf+BBUFxeHoUDC6eLZaOiq7UL/HpMU6sAiTiBfPPklOho5IHsoHoEOSpIaQ\nMoKwPjDL1wKBgHP3NuR8wZBVFEzvyjwSQF0rSfGFHuQA2wJZByIwr4zTS4NJ9dch\na+xMd5cj3Yqmr7FAtFo0NT/AljTcn68nLs2FjP4lK/o3njm29jlNrfb27JopiS1+\nmWETv4grzisvoP5pDdxkTQvuTVjtz1eoTlbUZ4KN5vtIFiaYLf9xDufRAoGBAIYq\nIGbGnKnRkySoFjKWXnbjlsoLUKTSwRpJ31OId4XlLktC23ql9Enjsq0HBEK2Xxw5\nd4p3hdv1qhXyoNBa7HTbcMxOIrzulBfiDbbabe7FUO7mtrkPuTOwr9eYyqlB9Ddm\nk/DDcrW+e0qsxz6HPxfOy6Lx2PIMVDZ8qW+LeRbFAoGAayWeCkdwZxhxGsG7FAAR\nWg5fdb+L1FY46EY6ciA455OHeeEnr0cLGegmRYVEg6vN6G4MLCKjQp/Lti9fihEj\nqFkoI0P0AHEJpE1c5YbenzJWBDlAP6gHv+AV0LF1Os6Y/0A/32fZSwUfGYeTspnJ\nJWB43UzKfPJ7kNrlfVoezfM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fhwgh@aeroporttuniscarthage.iam.gserviceaccount.com",
+  "client_id": "102571308291343906311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fhwgh%40aeroporttuniscarthage.iam.gserviceaccount.com"
+}
